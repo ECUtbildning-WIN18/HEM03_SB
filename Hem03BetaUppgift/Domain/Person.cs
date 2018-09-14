@@ -9,14 +9,14 @@ namespace Hem03BetaUppgift.Domain
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
         public string FavoritColor { get; }
-        public string Rank { get; private set; }
+        public string Rank { get; set; }
 
-        public Person(string firstName, string lastName, string favoritColor, string rank)
+        public Person(string firstName, string lastName, string favoritColor)
         {
             FirstName = firstName;
             LastName = lastName;
             FavoritColor = favoritColor;
-            Rank = rank;
+            Rank = "enlisted";
         }
 
         public void ChangeFirstName(string firstName)

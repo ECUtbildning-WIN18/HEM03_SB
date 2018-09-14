@@ -8,8 +8,8 @@ namespace Hem03BetaUppgift
     {
         static void Main(string[] args)
         {
-            Commander theCommander = new Commander("Adama", "William", "Cylonsred", "Commander");
-            CheifMate theCheifMate = new CheifMate("John", "Doe", "Black", "Cheif Mate");
+            Commander theCommander = new Commander("Adama", "William", "Cylonsred");
+            CheifMate theCheifMate = new CheifMate("John", "Doe", "Black");
 
             Engine ftl = new Engine(0001, true, "Faster than light dirve");
             Engine cbe = new Engine(0100, false, "Yamaha G19");
@@ -23,7 +23,7 @@ namespace Hem03BetaUppgift
             theCheifMate.Turning();
 
             Console.WriteLine($"{galactica.Commander.FirstName} are the {galactica.Commander.Rank} of {galactica.Brand}");
-            Console.WriteLine($"{galactica.CheifMate.FirstName} are the {galactica.Commander.Rank} of the {galactica.Brand}");
+            Console.WriteLine($"{galactica.CheifMate.FirstName} are the {galactica.CheifMate.Rank} of the {galactica.Brand}");
             Console.ReadKey();
         }
     }

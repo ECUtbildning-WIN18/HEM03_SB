@@ -6,9 +6,9 @@ namespace Hem03BetaUppgift.Domain
 {
     class Commander:Person
     {
-        public Commander(string firstName, string lastName, string favoritColor, string rank) : base (firstName, lastName, favoritColor, rank)
+        public Commander(string firstName, string lastName, string favoritColor) : base (firstName, lastName, favoritColor)
         {
-            
+            Rank = "Commander";
         }
 
         public void Drinking()
