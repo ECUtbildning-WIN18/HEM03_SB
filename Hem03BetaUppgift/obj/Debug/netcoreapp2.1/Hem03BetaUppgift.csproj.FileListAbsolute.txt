@@ -1,0 +1,11 @@
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\bin\Debug\netcoreapp2.1\Hem03BetaUppgift.deps.json
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\bin\Debug\netcoreapp2.1\Hem03BetaUppgift.runtimeconfig.json
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\bin\Debug\netcoreapp2.1\Hem03BetaUppgift.runtimeconfig.dev.json
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\bin\Debug\netcoreapp2.1\Hem03BetaUppgift.dll
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\bin\Debug\netcoreapp2.1\Hem03BetaUppgift.pdb
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\obj\Debug\netcoreapp2.1\Hem03BetaUppgift.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\obj\Debug\netcoreapp2.1\Hem03BetaUppgift.AssemblyInfoInputs.cache
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\obj\Debug\netcoreapp2.1\Hem03BetaUppgift.AssemblyInfo.cs
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\obj\Debug\netcoreapp2.1\Hem03BetaUppgift.dll
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\obj\Debug\netcoreapp2.1\Hem03BetaUppgift.pdb
+C:\Users\Stefa\source\repos\Hem03BetaUppgift\Hem03BetaUppgift\obj\Debug\netcoreapp2.1\Hem03BetaUppgift.csprojAssemblyReference.cache
