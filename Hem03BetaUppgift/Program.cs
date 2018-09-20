@@ -22,6 +22,7 @@ namespace Hem03BetaUppgift
             theCommander.Drinking();
             theCheifMate.Turning();
 
+
             Console.WriteLine($"{galactica.Commander.FirstName} are the {galactica.Commander.Rank} of the {galactica.Brand}");
             Console.WriteLine($"{galactica.CheifMate.FirstName} are the {galactica.CheifMate.Rank} of the {galactica.Brand}");
             Console.ReadKey();
